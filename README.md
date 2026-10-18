@@ -1,6 +1,6 @@
 # RSE Driving School website
 
-Static site, no backend, free on GitHub Pages.
+Static RSE site.
 
 ## Edit and build
 All page content lives in `build.py` (data blocks at the top: SERVICES, FAQ, TELL, SHOW, QUIZ, DICT, PHOTOS). Edit, then run `python3 build.py` (Python 3, plus nothing to install). Styles are in `css/style.css`, behaviour in `js/main.js`.
